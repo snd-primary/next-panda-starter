@@ -1,3 +1,5 @@
 ## Overview
-
-This is a very clear and simple todo app.
+- Next.js
+- panda.css
+- husky + lint-staged
+- biome
